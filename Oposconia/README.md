@@ -47,14 +47,13 @@ The feature set of Oposconia is comprehensive, blending accessibility with advan
   | 100 analyses    | 30€       | 0.3€                 |
   These packs offer scalability, with discounts for larger purchases, catering to users with varying needs and budgets.
 
-- **Subscription Options**: Beyond one-time purchases, Oposconia offers subscription plans to provide ongoing support:
-  - **Monthly Subscription**: Includes materials provided month to month, document analysis, and 30-day planning. This option is ideal for users seeking continuous resources and structured preparation.
-  - **Annual Subscription**: Offers materials on day one, document analysis, and process guidance, suitable for users committing to long-term preparation with immediate access to resources.
-  These subscriptions enhance the platform’s value by integrating educational materials and planning, which is an unexpected detail given the initial focus on document analysis alone.
+![Alt](https://github.com/Junaid-Nazir-828/project_overview/blob/main/public/oposconia/packages.png "Packages Image")
 
 - **User Authentication and Dashboard**: The platform features a logged-in state with a dashboard, accessible via a "My Account" button. This dashboard displays personalized information, such as the number of remaining analyses (e.g., "You have 14 analyses left"), enabling users to track usage and manage their accounts effectively.
 
 - **Payment Integration**: Payment options are integrated for users needing to upgrade, supporting both PayPal and Debit/Credit Card transactions. This is facilitated through a payment page, ensuring users can easily purchase packs or subscribe, enhancing accessibility for financial transactions.
+
+![Alt](https://github.com/Junaid-Nazir-828/project_overview/blob/main/public/oposconia/paypal.png "Paypal Image")
 
 #### User Interface and Experience
 The user interface, as observed from provided screenshots, is professional and user-friendly. The header includes a "My Account" section, indicating a logged-in state, with clear navigation for account management. The main content area features a form for document upload, with dropdowns for selecting region and specialty, enhancing customization. A promotional offer for the first free analysis is highlighted, with a checkbox for data policy acceptance and a submit button for analysis initiation. The payment page, shown in another screenshot, focuses on transaction options, with prominent PayPal and card buttons, ensuring a seamless payment experience. The design uses a gradient blue background, creating a focused atmosphere, and includes visual elements like a library setting image, symbolizing the educational context.
