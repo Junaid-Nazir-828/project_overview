@@ -1,10 +1,12 @@
+![Alt](https://repobeats.axiom.co/api/embed/4d2560fc21344db7bfe7207c5773071f884f95e1.svg "Home Page Image")
+
 ### Key Points
-- Oposconia seems to be an AI tool for analyzing PDF documents, likely for teaching position preparation.
+- Oposconia is an AI tool for analyzing PDF documents, likely for teaching position preparation.
 - It offers features like uploading PDFs, instant feedback, free first analysis, paid packs, subscriptions, and payment options.
 - The website includes a logged-in dashboard and supports payments via PayPal and credit cards.
 
 ### Project Overview
-Oposconia, hosted at [https://oposconia.vercel.app/](https://oposconia.vercel.app/), appears to be an AI-powered web application focused on helping users, especially those preparing for teaching positions, analyze PDF documents. It provides instant feedback based on official tribunal criteria, aiming to assist with achieving teaching positions and supporting trainers with corrections.
+Oposconia, hosted at [https://oposconia.vercel.app/](https://oposconia.vercel.app/), is an AI-powered web application focused on helping users, especially those preparing for teaching positions, analyze PDF documents. It provides instant feedback based on official tribunal criteria, aiming to assist with achieving teaching positions and supporting trainers with corrections.
 
 ### Features and Functionality
 The platform includes several key features:
