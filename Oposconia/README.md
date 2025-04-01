@@ -1,4 +1,4 @@
-### Key Points
+# Key Points
 
 - Oposconia is an AI tool for analyzing PDF documents, likely for teaching position preparation.
 - It offers features like uploading PDFs, instant feedback, free first analysis, paid packs, subscriptions, and payment options.
@@ -6,31 +6,12 @@
 
 ![Alt](https://github.com/Junaid-Nazir-828/project_overview/blob/main/public/oposconia/home.png "Home Page Image")
 
-### Project Overview
+## Project Overview
 
 Oposconia, hosted at [https://oposconia.vercel.app/](https://oposconia.vercel.app/), is an AI-powered web application focused on helping users, especially those preparing for teaching positions, analyze PDF documents. It provides instant feedback based on official tribunal criteria, aiming to assist with achieving teaching positions and supporting trainers with corrections.
 
-### Features and Functionality
 
-The platform includes several key features:
-
-- Users can upload PDF documents, either handwritten or digital, for analysis.
-- It offers instant AI-driven feedback, trained on tribunal criteria, to ensure accuracy.
-- A free first analysis is available to new users as a trial.
-- Paid options include analysis packs: 10 for 5€, 50 for 20€, and 100 for 30€.
-- Payment integration supports PayPal and Debit/Credit Card, visible after login for purchasing packs or subscribing.
-
-This setup suggests a freemium model, where users can start with a free analysis and upgrade for more features, which is an unexpected detail given the educational focus, blending AI technology with accessible pricing.
-
----
-
-### Detailed Analysis and Observations
-
-#### Introduction to Oposconia
-
-Oposconia is a web-based project designed to leverage artificial intelligence for educational purposes, specifically targeting individuals preparing for teaching positions. The platform, accessible at [https://oposconia.vercel.app/](https://oposconia.vercel.app/), is hosted on Vercel, indicating a modern, scalable infrastructure suitable for web applications. Its primary focus is on analyzing PDF documents, which can be either handwritten or digital, to provide users with instant feedback based on official tribunal criteria. This feature is particularly tailored for those in competitive exam preparation, such as oppositions for teaching roles, and extends support to trainers needing efficient correction tools.
-
-#### Comprehensive Feature Set
+## Comprehensive Feature Set
 
 The feature set of Oposconia is comprehensive, blending accessibility with advanced functionality:
 
@@ -59,6 +40,6 @@ The feature set of Oposconia is comprehensive, blending accessibility with advan
 
 ![Alt](https://github.com/Junaid-Nazir-828/project_overview/blob/main/public/oposconia/packages.png "Packages Image")
 
-#### Key Citations
+### Key Citations
 
 - [Oposconia AI Document Analysis Tool](https://oposconia.vercel.app/)
