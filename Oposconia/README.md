@@ -52,14 +52,5 @@ The feature set of Oposconia is comprehensive, blending accessibility with advan
 
 ![Alt](https://github.com/Junaid-Nazir-828/project_overview/blob/main/public/oposconia/packages.png "Packages Image")
 
-#### User Interface and Experience
-The user interface, as observed from provided screenshots, is professional and user-friendly. The header includes a "My Account" section, indicating a logged-in state, with clear navigation for account management. The main content area features a form for document upload, with dropdowns for selecting region and specialty, enhancing customization. A promotional offer for the first free analysis is highlighted, with a checkbox for data policy acceptance and a submit button for analysis initiation. The payment page, shown in another screenshot, focuses on transaction options, with prominent PayPal and card buttons, ensuring a seamless payment experience. The design uses a gradient blue background, creating a focused atmosphere, and includes visual elements like a library setting image, symbolizing the educational context.
-
-#### Technical and Operational Insights
-While specific technical details like the programming language or AI model are not publicly detailed, the hosting on Vercel suggests a modern stack, likely involving JavaScript frameworks and cloud-based AI services for document analysis. The platform’s ability to handle both handwritten and digital PDFs indicates advanced image processing and natural language processing capabilities, tailored for educational content. The integration of payment gateways like PayPal further suggests a robust backend for transaction processing, ensuring security and reliability.
-
-#### Conclusion and Implications
-Oposconia stands out as a specialized tool in the educational technology space, blending AI-driven document analysis with flexible payment and subscription models. Its focus on tribunal-aligned feedback makes it particularly valuable for competitive exam preparation, while the inclusion of materials and planning in subscriptions adds unexpected depth to its offerings. The platform’s design and features suggest it is well-suited for users seeking structured support in achieving teaching positions, with a user-centric approach evident in its interface and accessibility options.
-
 #### Key Citations
 - [Oposconia AI Document Analysis Tool](https://oposconia.vercel.app/)
