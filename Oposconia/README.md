@@ -1,4 +1,4 @@
-![Alt](https://repobeats.axiom.co/api/embed/4d2560fc21344db7bfe7207c5773071f884f95e1.svg "Home Page Image")
+![Alt](https://github.com/Junaid-Nazir-828/project_overview/blob/main/public/oposconia/home.png "Home Page Image")
 
 ### Key Points
 - Oposconia is an AI tool for analyzing PDF documents, likely for teaching position preparation.
