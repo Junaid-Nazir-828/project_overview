@@ -1,4 +1,5 @@
 ### Key Points
+
 - Oposconia is an AI tool for analyzing PDF documents, likely for teaching position preparation.
 - It offers features like uploading PDFs, instant feedback, free first analysis, paid packs, subscriptions, and payment options.
 - The website includes a logged-in dashboard and supports payments via PayPal and credit cards.
@@ -6,10 +7,13 @@
 ![Alt](https://github.com/Junaid-Nazir-828/project_overview/blob/main/public/oposconia/home.png "Home Page Image")
 
 ### Project Overview
+
 Oposconia, hosted at [https://oposconia.vercel.app/](https://oposconia.vercel.app/), is an AI-powered web application focused on helping users, especially those preparing for teaching positions, analyze PDF documents. It provides instant feedback based on official tribunal criteria, aiming to assist with achieving teaching positions and supporting trainers with corrections.
 
 ### Features and Functionality
+
 The platform includes several key features:
+
 - Users can upload PDF documents, either handwritten or digital, for analysis.
 - It offers instant AI-driven feedback, trained on tribunal criteria, to ensure accuracy.
 - A free first analysis is available to new users as a trial.
@@ -23,9 +27,11 @@ This setup suggests a freemium model, where users can start with a free analysis
 ### Detailed Analysis and Observations
 
 #### Introduction to Oposconia
+
 Oposconia is a web-based project designed to leverage artificial intelligence for educational purposes, specifically targeting individuals preparing for teaching positions. The platform, accessible at [https://oposconia.vercel.app/](https://oposconia.vercel.app/), is hosted on Vercel, indicating a modern, scalable infrastructure suitable for web applications. Its primary focus is on analyzing PDF documents, which can be either handwritten or digital, to provide users with instant feedback based on official tribunal criteria. This feature is particularly tailored for those in competitive exam preparation, such as oppositions for teaching roles, and extends support to trainers needing efficient correction tools.
 
 #### Comprehensive Feature Set
+
 The feature set of Oposconia is comprehensive, blending accessibility with advanced functionality:
 
 - **User Authentication and Dashboard**: The platform features a logged-in state with a dashboard, accessible via a "My Account" button. This dashboard displays personalized information, such as the number of remaining analyses (e.g., "You have 14 analyses left"), enabling users to track usage and manage their accounts effectively.
@@ -43,6 +49,7 @@ The feature set of Oposconia is comprehensive, blending accessibility with advan
 - **Freemium Model with Free First Analysis**: Oposconia offers a free first analysis, serving as an entry point for new users. This trial feature is designed to attract users by demonstrating value without initial cost, encouraging further engagement.
 
 - **Paid Analysis Packs**: For users needing more analyses, Oposconia provides paid packs at different tiers:
+
   | **Pack**       | **Price** | **Cost per Analysis** |
   |-----------------|-----------|-----------------------|
   | 10 analyses     | 5€        | 0.5€                 |
@@ -53,4 +60,5 @@ The feature set of Oposconia is comprehensive, blending accessibility with advan
 ![Alt](https://github.com/Junaid-Nazir-828/project_overview/blob/main/public/oposconia/packages.png "Packages Image")
 
 #### Key Citations
+
 - [Oposconia AI Document Analysis Tool](https://oposconia.vercel.app/)
