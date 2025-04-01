@@ -10,7 +10,6 @@
 
 Oposconia, hosted at [https://oposconia.vercel.app/](https://oposconia.vercel.app/), is an AI-powered web application focused on helping users, especially those preparing for teaching positions, analyze PDF documents. It provides instant feedback based on official tribunal criteria, aiming to assist with achieving teaching positions and supporting trainers with corrections.
 
-
 ## Comprehensive Feature Set
 
 The feature set of Oposconia is comprehensive, blending accessibility with advanced functionality:
@@ -36,6 +35,7 @@ The feature set of Oposconia is comprehensive, blending accessibility with advan
   | 10 analyses     | 5€        | 0.5€                 |
   | 50 analyses     | 20€       | 0.4€                 |
   | 100 analyses    | 30€       | 0.3€                 |
+  
   These packs offer scalability, with discounts for larger purchases, catering to users with varying needs and budgets.
 
 ![Alt](https://github.com/Junaid-Nazir-828/project_overview/blob/main/public/oposconia/packages.png "Packages Image")
