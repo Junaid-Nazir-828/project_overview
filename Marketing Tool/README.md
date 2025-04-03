@@ -1,16 +1,15 @@
 # Key Points
 
-- The desktop app, JD Tech, is a login interface for a tech-related application, likely a precursor to a dashboard or main functionality.
 - The app for SMS/MMS bulk messaging allows sending messages, viewing received SMS, creating surveys/campaigns with conditional flows, and validating numbers using NumVerify and Twilio APIs.
 - Both apps are built using Python and PyQt5, with the SMS/MMS app additionally using NumVerify and Twilio APIs for number validation and messaging.
 
 ![Alt](https://github.com/Junaid-Nazir-828/project_overview/blob/main/public/Marketing%20Tool/login.png "Login")
 
-## Project Overview for JD Tech
+## Project Overview
 
-JD Tech appears to be a desktop application with a login interface, likely serving as an entry point to a broader tech-related tool or dashboard. The login screen provides fields for username and password, with a "Show Password" option and a "Log in" button, ensuring secure access to the app’s features. This app is designed for users needing a simple, secure entry to a tech-focused platform, possibly for managing tech services or tools.
+The SMS/MMS Bulk Messaging App is a desktop application designed to streamline mass communication for businesses or individuals. It enables users to send SMS and MMS messages in bulk, view received SMS, create surveys or campaigns with conditional question flows, and validate phone numbers using NumVerify and Twilio APIs. Built with a user-friendly interface, this app provides a comprehensive solution for managing marketing campaigns, customer engagement, and communication workflows, ensuring efficiency and accuracy in messaging.
 
-## Features (JD Tech)
+## Features
 
 - **Bulk SMS/MMS Sending**: Screenshot id:8 showed a "MMS" tab with a message input field, a file path input for a list of numbers, a "Browse" button, carrier selection (Twilio, NumVerify), and "Start Messaging" and "Stop Messaging" buttons. This allows users to send messages to multiple numbers efficiently, with control over the process.
 
