@@ -24,8 +24,6 @@ KlinikX includes:
 
 ## Tech Stack
 
-The project uses:
-
 | **Technology**        | **Description**                                                                 |
 |-----------------------|---------------------------------------------------------------------------------|
 | Django                | Used for building the backend, managing content like doctor profiles, patient data, and appointment scheduling, ensuring scalability and security. |

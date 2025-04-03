@@ -28,8 +28,6 @@ Screenshots are included to showcase these features, such as the chat interface,
 
 ## Tech Stack
 
-The project leverages:
-
 | **Technology**        | **Description**                                                                 |
 |-----------------------|---------------------------------------------------------------------------------|
 | Next.js               | Used for building the responsive and dynamic web interface, ensuring a seamless user experience. |

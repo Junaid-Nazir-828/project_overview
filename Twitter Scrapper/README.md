@@ -20,8 +20,6 @@ Twitter Scraper includes:
 
 ## Tech Stack
 
-The project uses:
-
 | **Technology** | **Description**                                                                 |
 |----------------|---------------------------------------------------------------------------------|
 | Python         | Used for core development, scripting the scraping logic, and handling data processing. |
