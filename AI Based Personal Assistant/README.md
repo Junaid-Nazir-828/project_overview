@@ -4,7 +4,7 @@
 - It integrates with an ERP system via Azure OpenAI’s function calling, enhancing business automation.
 - The tech stack includes modern AI and web technologies, making it suitable for productivity and enterprise use.
 
-![Alt](https://github.com/Junaid-Nazir-828/project_overview/blob/main/public/oposconia/home.png "Home Page Image")
+![Alt](https://github.com/Junaid-Nazir-828/project_overview/blob/main/public/AI%20Based%20Personal%20Assistant/chat.png "Chat")
 
 ## Project Overview
 
@@ -19,6 +19,11 @@ The assistant includes:
 - Extensions for integrating with internal APIs and external resources, such as Azure AI Search.
 - A prompt library for creativity, offering templates for image generation (e.g., Whimsical City) or problem framing for new products.
 
+![Alt](https://github.com/Junaid-Nazir-828/project_overview/blob/main/public/AI%20Based%20Personal%20Assistant/persona.png "Chat")
+
+![Alt](https://github.com/Junaid-Nazir-828/project_overview/blob/main/public/AI%20Based%20Personal%20Assistant/extensions.png "Chat")
+
+![Alt](https://github.com/Junaid-Nazir-828/project_overview/blob/main/public/AI%20Based%20Personal%20Assistant/prompt.png "Chat")
 Screenshots are included to showcase these features, such as the chat interface, persona selection screen, extensions options, and prompt library.
 
 ## Tech Stack
