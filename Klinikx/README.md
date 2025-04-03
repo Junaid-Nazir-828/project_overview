@@ -4,7 +4,7 @@
 - It seems to be built using Django for the backend and OpenAI API for the chatbot, enhancing patient engagement.
 - Research suggests it includes typical hospital features like appointment scheduling and contact options, based on standard practices.
 
-![Alt](https://github.com/Junaid-Nazir-828/project_overview/blob/main/public/oposconia/home.png "Home Page Image")
+![Alt](https://github.com/Junaid-Nazir-828/project_overview/blob/main/public/Klinikx/hero.png "Home Page")
 
 ## Project Overview
 
@@ -32,3 +32,9 @@ The project uses:
 | OpenAI API            | Powers the chatbot for natural language processing, enabling real-time patient interactions for inquiries and support. |
 | PostgreSQL            | PostgreSQL, common with Django, for storing hospital data, patient records, and appointment details. |
 | Frontend              | Inferred to be HTML/CSS/JavaScript, given Django’s templating system, with a responsive design for mobile accessibility. |
+
+![Alt](https://github.com/Junaid-Nazir-828/project_overview/blob/main/public/Klinikx/chatbot.png "Home Page")
+
+![Alt](https://github.com/Junaid-Nazir-828/project_overview/blob/main/public/Klinikx/testimonial.png "Home Page")
+
+![Alt](https://github.com/Junaid-Nazir-828/project_overview/blob/main/public/Klinikx/transplant.png "Home Page")
