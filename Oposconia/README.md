@@ -8,7 +8,7 @@
 
 ## Project Overview
 
-Oposconia, hosted at [https://oposconia.vercel.app/](https://oposconia.vercel.app/), is an AI-powered web application focused on helping users, especially those preparing for teaching positions, analyze PDF documents. It provides instant feedback based on official tribunal criteria, aiming to assist with achieving teaching positions and supporting trainers with corrections.
+Oposconia, hosted at [https://oposconia.com/](https://oposconia.com/), is an AI-powered web application focused on helping users, especially those preparing for teaching positions, analyze PDF documents. It provides instant feedback based on official tribunal criteria, aiming to assist with achieving teaching positions and supporting trainers with corrections.
 
 ## Comprehensive Feature Set
 
@@ -42,4 +42,4 @@ The feature set of Oposconia is comprehensive, blending accessibility with advan
 
 ### Key Citations
 
-- [Oposconia AI Document Analysis Tool](https://oposconia.vercel.app/)
+- [Oposconia AI Document Analysis Tool](https://oposconia.com/)
